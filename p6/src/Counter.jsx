@@ -22,7 +22,7 @@ function Counter(){
 
     const reset = () => {
         setCount(0);
-        setCount(c=>c=0;)
+        setCount(c=>c=0);
     }
 
     return (<div className="counter-container">
